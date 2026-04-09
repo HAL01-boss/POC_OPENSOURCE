@@ -1,0 +1,17 @@
+llama-index
+llama-index-core
+llama-index-vector-stores-qdrant
+llama-index-llms-anthropic
+llama-index-embeddings-huggingface
+llama-index-postprocessor-flag-embedding-reranker
+qdrant-client
+anthropic
+fastembed
+python-pptx
+streamlit
+python-dotenv
+pydantic
+torch
+transformers
+FlagEmbedding
+sentence-transformers
